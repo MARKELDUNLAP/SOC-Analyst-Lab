@@ -1,7 +1,7 @@
 ## Screenshots
 
 ### Nmap Scan
-![Nmap Scan](screenshots/nmap.png)
+![Nmap Scan](screenshots/nmap-scan.png)
 
 ### Failed Login Attempts
-![Failed Login Attempts](screenshots/Failed%20login%20attempts.png)
+![Failed Login Attempts](screenshots/failed-login-attempts.png)
